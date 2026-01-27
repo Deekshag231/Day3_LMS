@@ -19,5 +19,4 @@ public class studentmodel {
     private String name;
     private int age;
     private String email;
-
 }
